@@ -1,0 +1,3 @@
+Job Fair;NTU Club;01-Dec-2020 2:00pm;10.90;Online Event;100
+Dancing;SP Club;01-Jan-2021 2:00pm;69.00;Face-To-Face Event;20
+Singing;NUS Club;15-Jan-2021 2:00pm;50.00;Online Event;20
