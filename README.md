@@ -1,3 +1,3 @@
 # eventManagement Project
 
-First Java school project on event management 
+First Java development project on event management made using Eclipse
